@@ -1,0 +1,55 @@
+.about__section {
+    background-color: $color-gray-60pr;
+}
+
+.about__list {}
+
+.about__item {}
+
+.about__img {}
+
+.about__subtitle {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    text-transform: uppercase;
+    color: $color-black;    
+
+}
+
+.adout__title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 1.16;
+    letter-spacing: 0.05em;
+    color: $color-black;
+
+}
+
+.about__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: $color-black-dark;
+
+}
+
+.about__subtext {
+    font-size: 14px;
+    line-height: 1.86;
+    letter-spacing: 0.02em;
+    color: $color-black-dark;
+
+}
+
+.about__button {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: $color-black;
+
+}

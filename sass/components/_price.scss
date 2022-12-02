@@ -1,0 +1,45 @@
+.price__section {
+    background-color: $color-gray-60pr;
+}
+
+.price__subtitle {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1,36;
+    text-transform: uppercase;
+    color: $color-gray-60pr;
+
+}
+
+.price__title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 1.16;
+    letter-spacing: 0.05em;
+    color: $color-white;
+
+}
+
+.price__list {}
+
+.price__item {}
+
+.price__order {
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: $color-gray;
+
+
+}
+
+.price__button {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: $color-white;
+
+}

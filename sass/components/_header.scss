@@ -1,0 +1,55 @@
+.header {
+    background-color: $color-gray-60pr;
+}
+
+.header__nav {}
+
+.header__logo {}
+
+.header__list {}
+
+.header__item {}
+
+.header__link {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    color: $color-white;
+
+
+    &:focus,
+    &:hover{
+        color: $color-orange;
+
+    }
+
+}
+
+.header__tel {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $color-white;
+
+
+    &:focus,
+    &:hover{
+        color: $color-orange;
+
+    }
+    
+}
+
+.header__button {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $color-white;
+    font-family: inherit;
+
+}

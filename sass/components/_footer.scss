@@ -1,0 +1,29 @@
+.footer {}
+
+.footer__copyright {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: 0.2em;
+    color: $color-gray;
+
+}
+
+.resources__list {}
+
+.resources__item {}
+
+.resources__link {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: 0.2em;
+    color: $color-black;
+
+    &:focus,
+    &:hover{
+        color: $color-orange;
+
+    }
+
+}

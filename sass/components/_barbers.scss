@@ -1,0 +1,48 @@
+.barbers__section {}
+
+.barbers__subtitle {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    text-transform: uppercase;
+    color: $color-black;
+
+}
+
+.barbers__title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 1.16;
+    letter-spacing: 0.05em;
+    color: $color-black;
+
+}
+
+.barbers__list {}
+
+.barbers__item {}
+
+.barbers__img {}
+
+.barbers__name {
+    font-size: 18px;
+    line-height: 1.36;
+    letter-spacing: 0.02em;
+    color: $color-black;
+
+}
+
+.barbers__job {
+    font-size: 14px;
+    line-height: 1.36;
+    letter-spacing: 0.02em;
+    color: $color-orange;
+
+}
+
+.social__list {}
+
+.social__item {}
+
+.social__link {}

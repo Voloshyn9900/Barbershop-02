@@ -1,0 +1,47 @@
+.contact__section {}
+
+.contact__title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 1.16;
+    letter-spacing: 0.05em;
+    color: $color-white;
+
+}
+
+.contact__address {}
+
+.contact__link {
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: $color-gray;
+
+    &--fatt {
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.67;
+        letter-spacing: 0.02em;
+        color: $color-gray;
+    
+    }
+
+}
+
+.contact__text {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    text-transform: uppercase;
+    color: $color-white;
+
+}
+
+.contact__subtext {
+    font-size: 18px;
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: $color-gray;
+    
+}
